@@ -10,101 +10,101 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 
 ## Course 1 : [Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow?specialization=tensorflow-advanced-techniques)
 
-- [Week 1 - Functional APIs]()
+- [Week 1 - Functional APIs](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C1%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201)
   Compare how the Functional API differs from the Sequential API, and see how the Functional API gives you additional flexibility in designing models. Practice using the functional API and build a Siamese network!
 
 <br/>
 
-- [Week 2 - Custom Loss Functions]()
+- [Week 2 - Custom Loss Functions](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C1%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%202)
   Loss functions help measure how well a model is doing, and are used to help a neural network learn from the training data. Learn how to build custom loss functions, including the contrastive loss function that is used in a Siamese network.
 
 <br/>
 
-- [Week 3 - Custom Layers]()
+- [Week 3 - Custom Layers](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C1%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%203)
   Custom layers give you the flexibility to implement models that use non-standard layers. Practice building off of existing standard layers to create custom layers for your models.
 
 <br/>
 
-- [Week 4 - Custom Models]()
+- [Week 4 - Custom Models](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C1%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%204)
   You can build off of existing models to add custom functionality. This week, extend the TensorFlow Model Class to build a ResNet model!
 
 <br/>
 
-- [Week 5 - Callbacks]()
+- [Week 5 - Callbacks](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C1%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%205)
   Custom callbacks allow you to customize what your model outputs or how it behaves during training. This week, implement a custom callback to stop training once the callback detects overfitting.
 
-#### [Course Certificate]()
+#### [Course Certificate](https://coursera.org/share/90ed742fc9a7f47eb3bdefbfcd831f0b)
 
 <br/>
 
 ## Course 2 : [Custom and Distributed Training with TensorFlow](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow?specialization=tensorflow-advanced-techniques)
 
-- [Week 1 - Differentiation and Gradients]()
+- [Week 1 - Differentiation and Gradients](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C2%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%201)
   You will get a detailed look at the fundamental building blocks of TensorFlow - tensor objects. For example, you will be able to describe the difference between eager mode and graph mode in TensorFlow, and explain why eager mode is very user friendly for you as a developer. You will also use TensorFlow tools to calculate gradients so that you don’t have to look for your old calculus textbooks next time you need to get a gradient!
 
   <br/>
 
-- [Week 2 - Custom Training]()
+- [Week 2 - Custom Training](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C2%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%202)
   You will build custom training loops using GradientTape and TensorFlow Datasets. Being able to write your own training loops will give you more flexibility and visibility with your model training. You will also use a function to calculate the derivatives of functions so that you don’t have to look to your old calculus textbooks to calculate gradients.
 
 <br/>
 
-- [Week 3 - Graph Mode]()
+- [Week 3 - Graph Mode](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C2%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%203)
   You’ll learn about the benefits of generating code that runs in “graph mode”. You’ll take a peek at what graph code looks like, and you’ll practice generating this more efficient code automatically with TensorFlow’s tools, so that you don’t have to write the graph code yourself!
 
 <br/>
 
-- [Week 4 - Distributed Training]()
+- [Week 4 - Distributed Training](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C2%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%204)
   You will harness the power of distributed training to process more data and train larger models, faster. You’ll get an overview of various distributed training strategies and then practice working with two strategies, one that trains on multiple GPU cores, and the other that trains on multiple TPU cores.
 
-#### [Course Certificate]()
+#### [Course Certificate](https://coursera.org/share/204f815e85005f77729a013eeed3bbbb)
 
 <br/>
 
 ## Course 3 : [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow?specialization=tensorflow-advanced-techniques)
 
-- [Week 1 - Introduction to Computer Vision]()
+- [Week 1 - Introduction to Computer Vision](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C3%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%201)
   Get a conceptual overview of image classification, object localization, object detection, and image segmentation. Also be able to describe multi-label classification, and distinguish between semantic segmentation and instance segmentation. In the rest of this course, you will apply TensorFlow to build object detection and image segmentation models.
 
 <br/>
 
-- [Week 2 - Object Detection]()
+- [Week 2 - Object Detection](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C3%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%202)
   You’ll get an overview of some popular object detection models, such as regional-CNN and ResNet-50. You’ll use object detection models that you’ll retrieve from TensorFlow Hub, download your own models and configure them for training, and also build your own models for object detection. By using transfer learning, you will train a model to detect and localize rubber duckies using just five training examples. You’ll also get to manually label your own rubber ducky images!
 
 <br/>
 
-- [Week 3 - Image Segmentation]()
+- [Week 3 - Image Segmentation](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C3%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%203)
   This week is all about image segmentation using variations of the fully convolutional neural network. With these networks, you can assign class labels to each pixel, and perform much more detailed identification of objects compared to bounding boxes. You’ll build the fully convolutional neural network, U-Net, and Mask R-CNN this week to identify and detect numbers, pets, and even zombies!
 
 <br/>
 
-- [Week 4 - Visualization and Interpretability]()
+- [Week 4 - Visualization and Interpretability](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C3%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%204)
   You’ll learn about the importance of model interpretability, which is the understanding of how your model arrives at its decisions. You’ll also implement class activation maps, saliency maps, and gradient-weighted class activation maps to identify which parts of an image are being used by your model to make its predictions. You’ll also see an example of how visualizing a model’s intermediate layer activations can help to improve the design of a famous network, AlexNet.
 
-#### [Course Certificate]()
+#### [Course Certificate](https://coursera.org/share/de9549665d4ceead8c5fae16a83e7dcc)
 
 <br/>
 
 ## Course 4 : [Generative Deep Learning with TensorFlow](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow?specialization=tensorflow-advanced-techniques)
 
-- [Week 1 - Style Transfer]()
+- [Week 1 - Style Transfer](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C4%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week%201)
   You will learn how to extract the content of an image (such as a swan), and the style of a painting (such as cubist, or impressionist), and combine the content and style into a new image. This is called neural style transfer, and you'll learn how to extract these kinds of features using transfer learning.
 
 <br/>
 
-- [Week 2 - AutoEncoders]()
+- [Week 2 - AutoEncoders](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C4%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week%202)
   You’ll get an overview of AutoEncoders and how to build them with TensorFlow. You'll learn how to build a simple AutoEncoder on the familiar MNIST dataset, before diving into more complicated deep and convolutional architectures that you'll build on the Fashion MNIST dataset. You'll get to see the difference in results of the DNN and CNN AutoEncoder models, and then identify ways to denoise noisy images. You'll finish the week building a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one!
 
 <br/>
 
-- [Week 3 - Variational AutoEncoders]()
+- [Week 3 - Variational AutoEncoders](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C4%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week%203)
   You will explore Variational AutoEncoders (VAEs) to generate entirely new data. In this week’s assignment, you will generate anime faces and compare them against reference images.
 
 <br/>
 
-- [Week 4 - GANs]()
+- [Week 4 - GANs](https://github.com/testob02/TensorFlow-Advanced-Techniques-Specialization--Coursera/tree/main/C4%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week%204)
   You’ll learn about GANs. You'll learn what they are, who invented them, their architecture and how they vary from VAEs. You'll get to see the function of the generator and the discriminator within the model, and the concept of 2 training phases and the role of introduced noise. Then you'll end the week building your own GAN that can generate faces!
 
-#### [Course Certificate]()
+#### [Course Certificate](https://coursera.org/share/04601a492bb1570e48f019519f5c5b57)
 
-### [Specialization Certificate]()
+### [Specialization Certificate](https://coursera.org/share/347afdd96529f239361febc6068e3c1c)
